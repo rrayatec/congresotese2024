@@ -1,5 +1,4 @@
-# Plataforma de Chat con Generación de Contenido IA
-
+# RAG: Inteligencia Generativa Aplicada
 ## Descripción
 
 Esta plataforma ha sido desarrollada utilizando **GitHub Codespaces** y tiene como objetivo proporcionar un chat interactivo para generar respuestas y contenido visual de manera automática. La plataforma está diseñada para permitir la interacción de cualquier usuario con **OpenAI**, usando modelos avanzados de IA como **GPT-4** para generación de texto y **DALL-E** para generación de imágenes.
