@@ -32,3 +32,17 @@ Esta plataforma ha sido desarrollada utilizando **GitHub Codespaces** y tiene co
 Puedes ver la presentación relacionada en el siguiente enlace:
 
 [Ver la presentación](https://docs.google.com/presentation/d/1QQMKWFAxkzLePeuHkgSNO9cFw-c0VjVYUUnN3Wlxp3U/edit?usp=sharing)
+
+
+1.- NDS Cognitivelabs
+https://www.youtube.com/watch?v=6cMnAxsVH-E
+2.- Watson
+https://www.youtube.com/watch?v=Fqd59j9x6Ag
+3.-  WatsonX 
+https://www.youtube.com/watch?v=AqsbO7h7sPQ
+4.- How Large Language Models Work
+https://www.youtube.com/watch?v=5sLYAQS9sWQ
+5.- AI, Machine Learning, Deep Learning and Generative AI Explained
+https://www.youtube.com/watch?v=qYNweeDHiyU
+6.- Welcome to DeepMind: Embarking on one of the greatest adventures in scientific history
+https://www.youtube.com/watch?v=b6e8CCPp2Kc
